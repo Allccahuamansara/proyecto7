@@ -3,7 +3,7 @@
  <html lang="es">
  <head>
  <meta charset="UTF-8">
- <title>Farmacity</title>
+ <title>Farmicity </title>
  <meta name="viewport" content="width=device-width,user-scalable=yes, initial-scale=1.0, maximum-scale=3.0, minimum-scale=1.0">>
 <link rel="stylesheet" href="css/estilo.css">
 <link>
@@ -18,7 +18,7 @@
 </header>
 <nav class="main-nav"
 <div class="container  container--flex"
- <span class="icon-menu" id="btnmenu"></span>
+<span class="icon-menu" id="btnmenu"></span>
  <ul class="menu"id="menu">
 <li class="menu_ _item"><a href="/" class="menu_ _link menu_ _link- -select">Inicio</a>
 </li>
